@@ -37,6 +37,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4. Ruby on Rails</h2>
+<h2>5. Angular</h2>
 </body>
 </html>
 '''
@@ -56,7 +58,7 @@ httpd.serve_forever()
 '''
 
 ## OUTPUT:
-![OUTPUT](./out1.jpeg)
+![OUTPUT](./webserver.png)
 ![OUTPUT](./out2.png)
 
 
