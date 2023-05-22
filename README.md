@@ -58,8 +58,8 @@ httpd.serve_forever()
 '''
 
 ## OUTPUT:
-![OUTPUT](./webserver.png)
 ![OUTPUT](./out2.png)
+![OUTPUT](./webserver.png)
 
 
 ## RESULT:
